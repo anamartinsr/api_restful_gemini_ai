@@ -1,6 +1,6 @@
-# Imersão Backend Alura
+# Api Rest com Google Gemini 
 
-Este projeto foi desenvolvido durante a **Imersão Backend da Alura**. O objetivo do projeto é criar uma API RESTful para gerenciar posts, com funcionalidades para listar, criar, atualizar posts e realizar upload de imagens. Além disso, a descrição das imagens é gerada automaticamente com a integração da API **Google Gemini**.
+O objetivo do projeto é criar uma API RESTful para gerenciar posts, com funcionalidades para listar, criar, atualizar posts e realizar upload de imagens. Além disso, a descrição das imagens é gerada automaticamente com a integração da API **Google Gemini**.
 
 ## Funcionalidades
 
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido durante a **Imersão Backend da Alura**. O objetiv
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/ribbeiroana/imersao_backend_alura.git
+   git clone https://github.com/anamartinsr/api_restful_gemini_ai.git
    ```
 2. **Instale as dependências:**
    ```bash
